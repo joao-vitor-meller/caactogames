@@ -1764,10 +1764,11 @@ input, select, textarea {
 
 		header > p {
 			display: block;
-			font-size: 1.5em;
+			font-size: 30px;
 			margin: 1em 0 2em 0;
 			line-height: 1.5em;
 			text-align: inherit;
+            font-weight: bold;
 		}
 
 	footer {
@@ -2204,6 +2205,7 @@ input, select, textarea {
 			color: #fff;
 			font-size: 3em;
 			line-height: 1em;
+             font-weight: bold;
 		}
 
 			#header h1 a {
@@ -2343,6 +2345,8 @@ input, select, textarea {
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
 					color: inherit;
+                    font-size: 35px;
+                    font-weight: bold;
 					text-decoration: none;
 					border: 0;
 					outline: 0;
